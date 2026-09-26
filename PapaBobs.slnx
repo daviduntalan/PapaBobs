@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="PapaBobs.Web/PapaBobs.Web.csproj" />
+  <Project Path="PapaBobs.Domain/PapaBobs.Domain.csproj" />
+  <Project Path="PapaBobs.DTO/PapaBobs.DTO.csproj" />
+  <Project Path="PapaBobs.Persistence/PapaBobs.Persistence.csproj" />
+  <Project Path="PapaBobs.Web/PapaBobs.csproj" />
 </Solution>
