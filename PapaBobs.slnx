@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="PapaBobs.Domain/PapaBobs.Domain.csproj" />
-  <Project Path="PapaBobs.DTO/PapaBobs.DTO.csproj" />
-  <Project Path="PapaBobs.Persistence/PapaBobs.Persistence.csproj" />
-  <Project Path="PapaBobs.Web/PapaBobs.csproj" />
+  <Project Path="PapaBobs.Domain/PapaBobs.Domain.csproj" Id="80ab5b66-821b-4ea9-9aa6-a9271f7c0afa" />
+  <Project Path="PapaBobs.DTO/PapaBobs.DTO.csproj" Id="8cb4cf03-5782-420b-be39-53913cc85467" />
+  <Project Path="PapaBobs.Persistence/PapaBobs.Persistence.csproj" Id="37046927-7ced-4f9f-b050-83fad9180a55" />
+  <Project Path="PapaBobs.Web/PapaBobs.csproj" Id="2893a2a1-1a8a-4b72-8264-49ff750832b3" />
 </Solution>
