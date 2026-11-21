@@ -17,6 +17,8 @@ namespace PapaBobs.Web
 
             Console.WriteLine("Adding my new change");
 
+            Console.WriteLine("My first commit on the new feature branch");
+
         }
     }
 }
