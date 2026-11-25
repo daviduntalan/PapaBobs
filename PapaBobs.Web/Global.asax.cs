@@ -22,6 +22,8 @@ namespace PapaBobs.Web
             Console.WriteLine("Commit A");
             
             Console.WriteLine("Commit B");
+            
+            Console.WriteLine("Commit C - cherry pick");
 
         }
     }
