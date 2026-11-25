@@ -20,6 +20,8 @@ namespace PapaBobs.Web
             Console.WriteLine("My first commit on the new feature branch");
 
             Console.WriteLine("Commit A");
+            
+            Console.WriteLine("Commit B");
 
         }
     }
